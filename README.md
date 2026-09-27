@@ -35,3 +35,34 @@ Lab-1/
 └── Use-Case Flow Specification.pdf
 ```
 
+## Lab-2: Agile Development & Sprint Planning
+
+### Overview
+Lab-2 focuses on Agile development and sprint planning. It includes sprint breakdown charts and sprint reports for the first two sprints.
+
+### Contents
+
+#### Documents
+- **Lab-2 Problem Statements**: Problem statements and requirements for the lab
+- **Lab 02.docx**: Lab handout and reference material
+- **Sprint 1 Breakdown Chart**: Task breakdown for Sprint 1
+- **Sprint 1 Sprint Report**: Progress and outcomes recorded for Sprint 1
+- **Sprint 2 Breakdown Chart**: Task breakdown for Sprint 2
+- **Sprint 2 Sprint Report**: Progress and outcomes recorded for Sprint 2
+
+### Key Deliverables
+- ✓ Sprint 1 task breakdown and report
+- ✓ Sprint 2 task breakdown and report
+
+### Directory Structure
+```
+Lab-2/
+├── Docs/
+│   └── Lab 02.docx
+├── PES1UG24CS539_Lab 02.pdf
+├── sprint_1_breakdown_chart.png
+├── sprint_1_sprint_report.png
+├── sprint_2_breakdown_chart.png
+└── sprint_2_sprint_report.png
+```
+
