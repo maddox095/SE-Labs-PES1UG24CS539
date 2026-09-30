@@ -66,3 +66,36 @@ Lab-2/
 └── sprint_2_sprint_report.png
 ```
 
+## Lab-4: Debugging & Software Maintenance
+
+### Overview
+Lab-4 is all about vibe coding through debugging — spotting the bug, tracing the root cause, fixing it, and validating the outcome with clear before-and-after evidence.
+
+### Contents
+
+#### Documents
+- **Lab04 Report**: Final report covering the bug, analysis, root cause, and fix summary
+- **Lab-4 Supporting Docs**: Reference materials and additional documentation in the `docs/` folder
+
+#### Artifacts
+- **Pre-fix Recording**: Video capture of the system behavior before the fix was applied
+- **Post-fix Recording**: Video capture showing the corrected behavior after the fix
+- **Lab-4 README**: Summary of the lab details and media files
+
+### Key Deliverables
+- ✓ Defect analysis and root cause documentation
+- ✓ Pre-fix and post-fix validation recordings
+- ✓ Final debugging and maintenance report
+
+### Directory Structure
+```
+Lab-4/
+├── docs/
+|   └── Lab04 Report.pdf
+├── Lab04 Report.pdf
+├── lab4_post_fix_recording.mp4
+├── lab4_pre_fix_recording.mp4
+├── README.md
+└──
+```
+
