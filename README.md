@@ -1,5 +1,6 @@
 # SE-Labs-PES1UG24CS539
-Name : Vishwas Gowda S
+Name : Vishwas Gowda S<br>
+SRN : PES1UG24CS539<br>
 
 ## Lab-1: Requirements Engineering & System Design
 
@@ -99,3 +100,42 @@ Lab-4/
 └──
 ```
 
+## Lab-3: Component Modelling & Architectural Pattern Selection
+
+### Overview
+Lab-3 focuses on component modelling and architectural pattern selection for the Domain & SSL Certificate Expiry Alert System. The system uses a Layered Architecture to separate presentation, business/application logic, and data/infrastructure responsibilities. The lab includes a UML Component Diagram showing the system components, interfaces, dependencies, and interactions, along with a written architectural justification.
+
+### Contents
+
+#### Documents
+- **LAB 3 ARCHITECTURE JUSTIFICATION.docx**: Written justification for selecting Layered Architecture, including scenario-specific reasons, security advantages, and performance benefits
+- **LAB 3 ARCHITECTURE JUSTIFICATION.pdf**: Final PDF version of the architecture justification
+
+#### Artifacts
+- **component_diagram.drawio.html**: Editable DrawIO UML component diagram showing the layered architecture and component interactions
+- **component_diagram.png**: Exported UML Component Diagram for the Domain & SSL Certificate Expiry Alert System
+
+### Architecture
+The system follows a **Layered Architecture** consisting of:
+
+- **Presentation Layer**: Admin Interface for System Admin and Security Officer interactions
+- **Business / Application Layer**: Scheduler, Monitoring Engine, Alert and Escalation Manager, and Notification Service
+- **Data / Infrastructure Layer**: Domain and Alert Repository and Audit Logging
+
+### Key Deliverables
+- ✓ UML Component Diagram with layered architecture
+- ✓ Seven identified system components
+- ✓ Provided and required component interfaces
+- ✓ Component dependencies and data flow
+- ✓ Architecture selection and justification
+- ✓ Security and performance considerations
+
+### Directory Structure
+```text
+Lab-3/
+├── docs/
+│   └── LAB 3 ARCHITECTURE JUSTIFICATION.docx
+├── component_diagram.drawio.html
+├── component_diagram.png
+└── LAB 3 ARCHITECTURE JUSTIFICATION.pdf
+```
